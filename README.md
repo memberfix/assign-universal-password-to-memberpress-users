@@ -1,0 +1,1 @@
+# assign-universal-password-to-memberpress-users
